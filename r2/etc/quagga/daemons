@@ -1,0 +1,7 @@
+#Indica quais daemons devem ser iniciados:
+zebra=yes
+bgpd=no
+ospfd=no
+ospf6d=no
+ripd=yes
+ripngd=no
